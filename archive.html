@@ -1,0 +1,18 @@
+---
+layout: default
+title: Eric Clark - Archive
+---
+
+<div>
+	<h3>Archive</h3>
+
+	<blockquote>
+		{% for post in site.posts %}
+		<h4><a href="{{post.url }}">{{ post.title }}</a></h4>
+		<p>{{ post.content | truncatewords:50 }}</p>
+		{% endfor %}
+	</blockquote>
+
+	<h5>sidebar</h5>
+
+</div>
