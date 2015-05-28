@@ -3,19 +3,19 @@
   <channel>
     <title>Eric Clark</title>
     <description>Front-End Designer and Developer</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 May 2015 08:16:56 -0400</pubDate>
-    <lastBuildDate>Wed, 27 May 2015 08:16:56 -0400</lastBuildDate>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 May 2015 15:15:06 -0400</pubDate>
+    <lastBuildDate>Thu, 28 May 2015 15:15:06 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Portfolio Piece 1</title>
-        <description>&lt;p&gt;Description of the piece&lt;/p&gt;
+        <title>JLG Branding</title>
+        <description>&lt;p&gt;Description of the work.&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Sep 2014 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/work/2014/09/15/jlg-branding.html</link>
-        <guid isPermaLink="true">http://localhost:4000/work/2014/09/15/jlg-branding.html</guid>
+        <link>http://localhost:4000//work/2014/09/15/jlg-branding.html</link>
+        <guid isPermaLink="true">http://localhost:4000//work/2014/09/15/jlg-branding.html</guid>
         
         
         <category>work</category>
@@ -29,8 +29,8 @@
 &lt;p&gt; Many a man would have even blazoned such irregularities as I was guilty of; but from the high views that I had set before me, I regarded and hid them with an almost morbid sense of shame. It was thus rather the exacting nature of my aspirations than any particular degradation in my faults, that made me what I was, and, with even a deeper trench than in the majority of men, severed in me those provinces of good and ill which divide and compound man&#39;s dual nature. In this case, I was driven to reflect deeply and inveterately on that hard law of life, which lies at the root of religion and is one of the most plentiful springs of distress. Though so profound a double-dealer, I was in no sense a hypocrite; both sides of me were in dead earnest; I was no more myself when I laid aside restraint and plunged in shame, than when I laboured, in the eye of day, at the futherance of knowledge or the relief of sorrow and suffering.&lt;/p&gt;
 </description>
         <pubDate>Mon, 20 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/20/henrys-statement.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/20/henrys-statement.html</guid>
+        <link>http://localhost:4000//1880/09/20/henrys-statement.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/20/henrys-statement.html</guid>
         
         
       </item>
@@ -42,8 +42,8 @@
 &lt;p&gt; To this rule, Dr. Jekyll was no exception; and as he now sat on the opposite side of the fire -- a large, well-made, smooth-faced man of fifty, with something of a stylish cast perhaps, but every mark of capacity and kindness -- you could see by his looks that he cherished for Mr. Utterson a sincere and warm affection.&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/15/a-fortnight-later.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/15/a-fortnight-later.html</guid>
+        <link>http://localhost:4000//1880/09/15/a-fortnight-later.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/15/a-fortnight-later.html</guid>
         
         
       </item>
@@ -57,8 +57,8 @@
 &lt;p&gt;He caught up the next paper; it was a brief note in the doctor&#39;s hand and dated at the top. &quot;O Poole!&quot; the lawyer cried, &quot;he was alive and here this day. He cannot have been disposed of in so short a space; he must be still alive, he must have fled! And then, why fled? and how? and in that case, can we venture to declare this suicide? O, we must be careful. I foresee that we may yet involve your master in some dire catastrophe.&quot;&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/07/business-table.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/07/business-table.html</guid>
+        <link>http://localhost:4000//1880/09/07/business-table.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/07/business-table.html</guid>
         
         
       </item>
@@ -70,8 +70,8 @@
 &lt;p&gt;The cellar, indeed, was filled with crazy lumber, mostly dating from the times of the surgeon who was Jekyll&#39;s predecessor; but even as they opened the door they were advertised of the uselessness of further search, by the fall of a perfect mat of cobweb which had for years sealed up the entrance. No where was there any trace of Henry Jekyll dead or alive.&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/04/far-greater-proportion.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/04/far-greater-proportion.html</guid>
+        <link>http://localhost:4000//1880/09/04/far-greater-proportion.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/04/far-greater-proportion.html</guid>
         
         
       </item>
@@ -85,8 +85,8 @@
 &lt;p&gt;But for all the hurry of his coming, these were not the dews of exertion that he wiped away, but the moisture of some strangling anguish; for his face was white and his voice, when he spoke, harsh and broken.&lt;/p&gt;
 </description>
         <pubDate>Thu, 02 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/02/wild-cold.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/02/wild-cold.html</guid>
+        <link>http://localhost:4000//1880/09/02/wild-cold.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/02/wild-cold.html</guid>
         
         
       </item>
@@ -98,8 +98,8 @@
 &lt;p&gt;Jekyll&#39;s Will and sat down with a clouded brow to study its contents. The will was holograph, for Mr. Utterson though he took charge of it now that it was made, had refused to lend the least assistance in the making of it; it provided not only that, in case of the decease of Henry Jekyll, M.D., D.C.L., L.L.D., F.R.S., etc., all his possessions were to pass into the hands of his &quot;friend and benefactor Edward Hyde,&quot; but that in case of Dr. Jekyll&#39;s &quot;disappearance or unexplained absence for any period exceeding three calendar months,&quot; the said Edward Hyde should step into the said Henry Jekyll&#39;s shoes without further delay and free from any burthen or obligation beyond the payment of a few small sums to the members of the doctor&#39;s household. This document had long been the lawyer&#39;s eyesore. It offended him both as a lawyer and as a lover of the sane and customary sides of life, to whom the fanciful was the immodest.&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Sep 1880 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/1880/09/01/search-for-mr-hyde.html</link>
-        <guid isPermaLink="true">http://localhost:4000/1880/09/01/search-for-mr-hyde.html</guid>
+        <link>http://localhost:4000//1880/09/01/search-for-mr-hyde.html</link>
+        <guid isPermaLink="true">http://localhost:4000//1880/09/01/search-for-mr-hyde.html</guid>
         
         
       </item>

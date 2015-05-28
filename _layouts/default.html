@@ -17,34 +17,40 @@
   <!-- Included CSS Files (Uncompressed) -->
   <!--
   <link rel="stylesheet" href="stylesheets/foundation.css">
-  -->
-  
-  <!-- Included CSS Files (Compressed) -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/foundation.min.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/app.css">
-  <script src="{{ site.baseurl }}/javascripts/modernizr.foundation.js"></script>
+-->
 
-  <!-- IE Fix for HTML5 Tags -->
+<!-- Included CSS Files (Compressed) -->
+<link rel="stylesheet" href="{{ site.baseurl }}stylesheets/foundation.min.css">
+<link rel="stylesheet" href="{{ site.baseurl }}stylesheets/app.css">
+<script src="{{ site.baseurl }}javascripts/modernizr.foundation.js"></script>
+
+<!-- IE Fix for HTML5 Tags -->
   <!--[if lt IE 9]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
+    <![endif]-->
 
-</head>
-<body>
+  </head>
+  <body>
 
-<header>
-  <div class="row">
-    <div class="container">
-      <h2><a href="{{site.baseurl}}">{{site.title}}</a></h2>
-      <p>{{site.description}}</p>
-    </div>
-  </div>
-</header>
+    <header>
+      <div class="row">
+        <div class="container">
+          <div class="twelve columns">
+            <div class="logo">
+              <a href="{{ site.baseurl }}"><img src="http://placehold.it/175x75&text=LOGO" alt=""></a>
+            </div>
+          <p>
+            {{ site.title }} / {{ site.description }}
+          </p>
+        </div>
+      </div>
+      </div>
+    </header>
 
-    {{content}}
-  
-  
-  <!-- Included JS Files (Uncompressed) -->
+    {{content}} 
+
+
+    <!-- Included JS Files (Uncompressed) -->
   <!--
   
   <script src="javascripts/modernizr.foundation.js"></script>
@@ -73,12 +79,12 @@
   
   <script src="javascripts/jquery.foundation.alerts.js"></script>
   
-  -->
-  
-  <!-- Included JS Files (Compressed) -->
-  <script src="{{ site.baseurl }}/javascripts/foundation.min.js"></script>
-  
-  <!-- Initialize JS Plugins -->
-  <script src="{{ site.baseurl }}/javascripts/app.js"></script>
+-->
+
+<!-- Included JS Files (Compressed) -->
+<script src="{{ site.baseurl }}javascripts/foundation.min.js"></script>
+
+<!-- Initialize JS Plugins -->
+<script src="{{ site.baseurl }}javascripts/app.js"></script>
 </body>
 </html>
